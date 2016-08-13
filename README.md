@@ -1,6 +1,8 @@
 # 豆芽 CI 构建版本仓库
 
-[DreaminginCodeZH/Douya](https://github.com/DreaminginCodeZH/Douya) ![Travis CI](https://travis-ci.org/DreaminginCodeZH/Douya.svg)
+[DreaminginCodeZH/Douya](https://github.com/DreaminginCodeZH/Douya)
+
+![Travis CI](https://travis-ci.org/DreaminginCodeZH/Douya.svg)
 
 这里是豆芽的 CI 构建版本仓库。每次豆芽的代码更新后，都可以在这里的 [Releases](https://github.com/DreaminginCodeZH/DouyaCiBuilds/releases) 中找到最新版本的 APK 下载。
 
