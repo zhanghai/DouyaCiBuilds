@@ -1,10 +1,10 @@
 # 豆芽 CI 构建版本仓库
 
-[DreaminginCodeZH/Douya](https://github.com/DreaminginCodeZH/Douya)
+[zhanghai/Douya](https://github.com/zhanghai/Douya)
 
-![Travis CI](https://travis-ci.org/DreaminginCodeZH/Douya.svg)
+![Travis CI](https://travis-ci.org/zhanghai/Douya.svg)
 
-这里是豆芽的 CI 构建版本仓库。每次豆芽的代码更新后，都可以在这里的 [Releases](https://github.com/DreaminginCodeZH/DouyaCiBuilds/releases) 中找到最新版本的 APK 下载。
+这里是豆芽的 CI 构建版本仓库。每次豆芽的代码更新后，都可以在这里的 [Releases](https://github.com/zhanghai/DouyaCiBuilds/releases) 中找到最新版本的 APK 下载。
 
 使用 CI 构建版本可以尽快体验到最新的功能和问题修复，但同时也有可能遇到潜在的应用不稳定等问题。我会尽量保证每次构建都处在可用状态。
 
